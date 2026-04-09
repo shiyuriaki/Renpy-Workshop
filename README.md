@@ -46,3 +46,4 @@ Renpy-Workshop
 - Sprites from
   - Love Confessions by me
   - High Tier Assassins: Coworkers by me
+- Background music by [Ontama](https://ontama-m.com/ongaku_kawaii.html)
