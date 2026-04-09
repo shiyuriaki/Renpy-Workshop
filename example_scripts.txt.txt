@@ -1,0 +1,14 @@
+# Example Script 1
+
+Character1: This is a workshop tutorial! I'm talking right now.
+
+# Change Character1 expression
+Character1 happy:  And here is me changing my face! Wow, how does that work?
+
+# Put Character2 'at right
+Character2: I don't know how I'm on the right side of the screen!
+
+# Put Character2 'at left, with easein'
+Character2: Look at me go to the left now without teleporting.
+
+Character1 surprised: Huh. How did you do that?
