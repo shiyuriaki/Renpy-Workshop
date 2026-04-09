@@ -12,3 +12,10 @@ Character2: I don't know how I'm on the right side of the screen!
 Character2: Look at me go to the left now without teleporting.
 
 Character1 surprised: Huh. How did you do that?
+
+# Example Script 2
+
+Justin: How good was the workshop?
+
+# show matt image
+Mattholemew Orbital Strike: It was THIS GOOD.
